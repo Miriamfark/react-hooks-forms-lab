@@ -10,21 +10,7 @@ In this lab, you'll write and use controlled components.
 
 ## Controlled Components
 
-Now that we know how to handle form elements in React and how to set up
-controlled components, it's time to put that knowledge to the test. This lab is
-fairly extensive, but you'll use many core React concepts here that will surface
-again and again. Time to get some practice in!
-
-We'll continue adding new features to the Shopping List app using controlled
-components. Make sure to familiarize yourself with the code before diving into
-the deliverables! Completing these deliverables will also require understanding
-of all the previous topics from this section, including initializing state,
-passing data and callback functions as props, and working with events.
-
-## Deliverables
-
-### Filter
-
+Now that we know how to handle form elements in React vgit@github.com:Miriamfark/react-hooks-forms-lab.gitgit@github.com:Miriamfark/react-hooks-forms-lab.gitgit@github.com:Miriamfark/react-hooks-forms-lab.gitgit@github.com:Miriamfark/react-hooks-forms-lab.gitgit@github.com:Miriamfark/react-hooks-forms-lab.gitgit@github.com:Miriamfark/react-hooks-forms-lab.gitgit@github.com:Miriamfark/react-hooks-forms-lab.gitgit@github.com:Miriamfark/react-hooks-forms-lab.gitgit@github.com:Miriamfark/react-hooks-forms-lab.gitgit@github.com:Miriamfark/react-hooks-forms-lab.gitgit@github.com:Miriamfark/react-hooks-forms-lab.git˚√
 In the filter component, there is a new input field for searching our list.
 _When the user types in this field_, the list of items should be filtered so
 that only items with names that match the text are included.
